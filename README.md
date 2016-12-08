@@ -10,3 +10,5 @@ How to use it:
 4. Verify the network activity.
 
 You are all set!
+
+Note: To be updated soon.
